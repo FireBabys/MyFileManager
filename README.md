@@ -1,4 +1,4 @@
-# MyFileManager
+# JavaFXFileManager
 文件管理器 1.0
 2019年5月24日 编写
 使用JavaFX编写 jdk1.8
